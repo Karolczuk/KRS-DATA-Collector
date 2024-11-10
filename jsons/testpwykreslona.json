@@ -1,0 +1,170 @@
+{
+    "odpis": {
+        "rodzaj": "Aktualny",
+        "naglowekA": {
+            "rejestr": "RejS",
+            "numerKRS": "0000530886",
+            "dataCzasOdpisu": "30.10.2024 15:05:02",
+            "stanZDnia": "27.09.2024",
+            "dataRejestracjiWKRS": "12.11.2014",
+            "numerOstatniegoWpisu": 24,
+            "dataOstatniegoWpisu": "27.09.2024",
+            "sygnaturaAktSprawyDotyczacejOstatniegoWpisu": "PO.VIII NS-REJ.KRS/30546/24/230",
+            "oznaczenieSaduDokonujacegoOstatniegoWpisu": "S\u0104D REJONOWY POZNA\u0143 - NOWE MIASTO I WILDA W POZNANIU, VIII WYDZIA\u0141 GOSPODARCZY KRAJOWEGO REJESTRU S\u0104DOWEGO",
+            "stanPozycji": 4
+        },
+        "dane": {
+            "dzial1": {
+                "danePodmiotu": {
+                    "formaPrawna": "FUNDACJA",
+                    "identyfikatory": {
+                        "regon": "36012513900000",
+                        "nip": "7792426208"
+                    },
+                    "nazwa": "FUNDACJA SPO\u0141ECZNEJ AKTYWNO\u015aCI",
+                    "daneOWczesniejszejRejestracji": {},
+                    "czyPosiadaStatusOPP": false
+                },
+                "siedzibaIAdres": {
+                    "siedziba": {
+                        "kraj": "POLSKA",
+                        "wojewodztwo": "WIELKOPOLSKIE",
+                        "powiat": "M. POZNA\u0143",
+                        "gmina": "M. POZNA\u0143",
+                        "miejscowosc": "POZNA\u0143"
+                    },
+                    "adres": {
+                        "ulica": "PRZYBYSZEWSKIEGO",
+                        "nrDomu": "42",
+                        "nrLokalu": "13",
+                        "miejscowosc": "POZNA\u0143",
+                        "kodPocztowy": "60-357",
+                        "poczta": "POZNA\u0143",
+                        "kraj": "POLSKA"
+                    }
+                },
+                "umowaStatut": {
+                    "informacjaOZawarciuZmianieUmowyStatutu": [
+                        {
+                            "zawarcieZmianaUmowyStatutu": "28.10.2014 R. NADANO STATUT W NOWYM BRZMIENIU."
+                        }
+                    ]
+                },
+                "pozostaleInformacje": {
+                    "czasNaJakiUtworzonyZostalPodmiot": "NIEOZNACZONY"
+                },
+                "organSprawujacyNadzor": {
+                    "nazwa": "MINISTER PRACY I POLITYKI SPO\u0141ECZNEJ"
+                }
+            },
+            "dzial2": {
+                "reprezentacja": {
+                    "nazwaOrganu": "ZARZ\u0104D",
+                    "sposobReprezentacji": "O\u015aWIADCZENIA WOLI W IMIENIU FUNDACJI SK\u0141ADA PREZES ZARZ\u0104DU SAMODZIELNIE.",
+                    "sklad": [
+                        {
+                            "nazwisko": {
+                                "nazwiskoICzlon": "K*******"
+                            },
+                            "imiona": {
+                                "imie": "R*******",
+                                "imieDrugie": "A*****"
+                            },
+                            "identyfikator": {
+                                "pesel": "8**********"
+                            },
+                            "funkcjaWOrganie": "PREZES ZARZ\u0104DU"
+                        }
+                    ]
+                }
+            },
+            "dzial3": {
+                "wzmiankiOZlozonychDokumentach": {
+                    "wzmiankaOZlozeniuRocznegoSprawozdaniaFinansowego": [
+                        {
+                            "dataZlozenia": "13.02.2020",
+                            "zaOkresOdDo": "OD 12.11.2014 DO 31.12.2014"
+                        },
+                        {
+                            "dataZlozenia": "13.02.2020",
+                            "zaOkresOdDo": "OD 01.01.2015 DO 31.12.2015"
+                        },
+                        {
+                            "dataZlozenia": "13.02.2020",
+                            "zaOkresOdDo": "OD 01.01.2016 DO 31.12.2016"
+                        },
+                        {
+                            "dataZlozenia": "13.02.2020",
+                            "zaOkresOdDo": "OD 01.01.2017 DO 31.12.2017"
+                        },
+                        {
+                            "dataZlozenia": "13.02.2020",
+                            "zaOkresOdDo": "OD 01.01.2018 DO 31.12.2018"
+                        },
+                        {
+                            "dataZlozenia": "18.11.2020",
+                            "zaOkresOdDo": "OD 01.01.2019 DO 31.12.2019"
+                        },
+                        {
+                            "dataZlozenia": "22.06.2021",
+                            "zaOkresOdDo": "OD 01.01.2020 DO 31.12.2020"
+                        },
+                        {
+                            "dataZlozenia": "27.06.2022",
+                            "zaOkresOdDo": "OD 01.01.2021 DO 31.12.2021"
+                        },
+                        {
+                            "dataZlozenia": "09.11.2023",
+                            "zaOkresOdDo": "OD 01.01.2022 DO 31.12.2022"
+                        },
+                        {
+                            "dataZlozenia": "23.09.2024",
+                            "zaOkresOdDo": "OD 01.01.2023 DO 31.12.2023"
+                        }
+                    ],
+                    "wzmiankaOZlozeniuUchwalyPostanowieniaOZatwierdzeniuRocznegoSprawozdaniaFinansowego": [
+                        {
+                            "zaOkresOdDo": "OD 12.11.2014 DO 31.12.2014"
+                        },
+                        {
+                            "zaOkresOdDo": "OD 01.01.2015 DO 31.12.2015"
+                        },
+                        {
+                            "zaOkresOdDo": "OD 01.01.2016 DO 31.12.2016"
+                        },
+                        {
+                            "zaOkresOdDo": "OD 01.01.2017 DO 31.12.2017"
+                        },
+                        {
+                            "zaOkresOdDo": "OD 01.01.2018 DO 31.12.2018"
+                        },
+                        {
+                            "zaOkresOdDo": "OD 01.01.2019 DO 31.12.2019"
+                        },
+                        {
+                            "zaOkresOdDo": "OD 01.01.2020 DO 31.12.2020"
+                        },
+                        {
+                            "zaOkresOdDo": "OD 01.01.2021 DO 31.12.2021"
+                        },
+                        {
+                            "zaOkresOdDo": "OD 01.01.2022 DO 31.12.2022"
+                        },
+                        {
+                            "zaOkresOdDo": "OD 01.01.2023 DO 31.12.2023"
+                        }
+                    ]
+                },
+                "celDzialaniaOrganizacji": {
+                    "celDzialania": "CELAMI FUNDACJI S\u0104 POPRAWA WARUNK\u00d3W \u017bYCIA OS\u00d3B STARSZYCH, RENCIST\u00d3W, EMERYT\u00d3W, OS\u00d3B POSZKODOWANYCH PRZEZ LOS, SAMOTNYCH I ICH RODZIN, ORGANIZOWANIE I POPULARYZOWANIE AKTYWNEJ REHABILITACJI, UDZIELANIE POMOCY MATERIALNO - BYTOWEJ, INTEGRACJ\u0118 OS\u00d3B STARSZYCH, NIEPE\u0141NOSPRAWNYCH W SPO\u0141ECZE\u0143STWIE LUDZI ZDROWYCH, ORGANIZOWANIE I ZAOPATRYWANIE W ARTYKU\u0141Y PIERWSZEJ POTRZEBY LUDZI WYMAGAJ\u0104CYCH OPIEKI, DZIA\u0141ALNO\u015a\u0106 EDUKACYJNA I O\u015aWIATOWA, POPRAWA INFRASTRUKTURY SPO\u0141ECZNEJ."
+                },
+                "informacjaODniuKonczacymRokObrotowy": {
+                    "dzienKonczacyPierwszyRokObrotowy": "31.12.2014"
+                }
+            },
+            "dzial4": {},
+            "dzial5": {},
+            "dzial6": {}
+        }
+    }
+}
